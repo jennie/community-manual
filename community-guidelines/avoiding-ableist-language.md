@@ -1,3 +1,5 @@
+# Avoiding Ableist Language
+
 DMG strives to provide a space free from linguistic, physical, environmental and social barriers. 
 
 We ask that everyone part of this community, but especially workshop leaders and speakers at our events, be:
