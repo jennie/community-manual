@@ -6,8 +6,8 @@
   * [How To Present at a Speaker Social](community-guidelines/how-to-present-at-a-speaker-social.md)
   * [Mentor and Volunteer Guidelines](community-guidelines/mentor-and-volunteer-guidelines.md)
   * [How to Run a Game Jam](community-guidelines/how-to-run-a-game-jam.md)
-* [Policies](policies.md)
-  * [Festival Entry Fee Remuneration Policy](festival-entry-fee-remuneration-policy.md)
-  * [Speaker and Artist Fee Policy](speaker-and-artist-fee-policy.md)
-  * [Conflict Resolution Policy](conflict-resolution-policy.md)
+* [Policies](policies/README.md)
+  * [Festival Entry Fee Remuneration Policy](policies/festival-entry-fee-remuneration-policy.md)
+  * [Speaker and Artist Fee Policy](policies/speaker-and-artist-fee-policy.md)
+  * [Conflict Resolution Policy](policies/conflict-resolution-policy.md)
 
