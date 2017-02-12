@@ -6,7 +6,7 @@
   * [How To Present at a Speaker Social](community-guidelines/how-to-present-at-a-speaker-social.md)
   * [Mentor and Volunteer Guidelines](community-guidelines/mentor-and-volunteer-guidelines.md)
 * [Policies](policies.md)
-  * Festival Entry Fee Remuneration Policy
+  * [Festival Entry Fee Remuneration Policy](festival-entry-fee-remuneration-policy.md)
   * [Speaker and Artist Fee Policy](speaker-and-artist-fee-policy.md)
   * [Conflict Resolution Policy](conflict-resolution-policy.md)
 
