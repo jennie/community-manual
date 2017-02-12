@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [Community Guidelines](community-guidelines.md)
   * [Avoiding Ableist Language](community-guidelines/avoiding-ableist-language.md)
+  * [How To Present at a Speaker Social](community-guidelines/how-to-present-at-a-speaker-social.md)
 
