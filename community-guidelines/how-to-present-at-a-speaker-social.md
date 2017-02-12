@@ -1,3 +1,5 @@
+# How to Present at a Speaker Social
+
 ## Who presents at DMG Speaker Socials?
 
 Any trans or cis woman, genderqueer, nonbinary or Two Spirit individual with a project related to interactive/immersive media art, computer or analog games!
