@@ -6,7 +6,7 @@ You don't have to have created a polished, released game - even a sketch of an i
 
 ## What's it like to give a presentation at a DMG event?
 
-All **Speaker Socials** happen at our headquarters, Gamma Space, located at [862 Richmond Street West] in Toronto. It's a coworking space during the day, and also hosts events and meetups in the evening.
+All **Speaker Socials** happen at our headquarters, Gamma Space, located at [862 Richmond Street West](http://goo.gl/maps/jTmW8) in Toronto. It's a coworking space during the day, and also hosts events and meetups in the evening.
 
 You'll have access to a projector and screen, a microphone and sound board - and all the cables you could possibly need! Arrive at least 15 minutes before the start of the social, and we'll get you all set up. _If you need other specialized equipment, please let us know ahead of time._
 
@@ -18,13 +18,13 @@ Presentations should be roughly 20 minutes long (shorter if more than three peop
 
 A good standard format is:
 
-### Intro
+### 1. Intro
 
 _You, your background, and how you're involved with DMG if applicable_
 
 People want to know about you! What interests, skills, hobbies, and communities influence your work; why you're interested in games; what brought you to DMG (if you're a participant in a DMG program or new to the community). If your career path or area of study is related to games or influenced your project, say a few words about how you wound up there.
 
-### Project Background
+### 2. Project Background
 
 _Tell the story of your project and how it came to be._
 
@@ -33,18 +33,18 @@ _Tell the story of your project and how it came to be._
 * What challenges did you meet along the way? Did the project change as it progressed? 
 * If you have any interesting anecdotes about the process, tell them!
 
-### Demo/Presentation
+### 3. Demo/Presentation
 
-_Show us what ya got!_
+_Show us what you've got!_
 
 If your project is a game, play through a small part of it on screen. Point out the parts you're most proud of or interested in. 
 
 If you're presenting on a topic, take us through some visuals. Slides with minimal text and graphics/photos work best!
 
-### Pitch/ask-the-audience
+### 4. Pitch/ask-the-audience
 _Ask the audience a question and get feedback on a problem you're struggling with_
 
-If you have future plans for growing or changing the project, talk about what they are. Looking for help or collaborators? Send out a call! A great way to lead in to a lively Q+A session is to ask attendees for feedback about a specific aspect of your project. This could be about game design ("What do you think is most unique about this design?"), the interface ("How do I make the actions available to the player more clear?"), marketing ("What platforms/distribution options should I target?"), collaboration ("I'm looking for a sound designer…") - or any other issue you're wondering about!
+If you have future plans for growing or changing the project, talk about what they are. Looking for help or collaborators? Send out a call! A great way to lead in to a lively Q+A session is to ask attendees for feedback about a specific aspect of your project. This could be about game design ("What do you think is most unique about this design?"), the interface ("How do I make the actions available to the player more clear?"), research ("Who's doing interesting work that I should check out?"), collaboration ("I'm looking for a sound designer…") - or any other issue you're wondering about!
 
 ## What makes for an engaging presentation?
 
@@ -60,12 +60,8 @@ If you would like to practice ahead of time or rehearse your talk, we would be h
 
 ## A note about recording
 
-We video and audio record all speakers at our socials, with permission from our speakers, and create edited videos and text transcripts of the presentations. We post these videos and articles on our site to broaden the reach of our programs beyond Toronto. Please let us know if you would prefer we did not record your presentation, or if you would like to see it before it is made public.
+We sometimes video and audio record speakers at our socials, with permission, and create edited videos and text transcripts of the presentations. We post these videos and articles on our site to broaden the reach of our programs beyond Toronto. Please let us know if you would prefer we did not record your presentation, or if you would like to see it before it is made public.
 
 We can provide you with the source for the video, and you are free to post and share it however you like.
 
-## OK! I would love to speak at an upcoming social!
-
-[Submit your proposal!]
-
-[Check out our upcoming social schedule here!]
+**[Submit your proposal!](https://dmg.to/applications/speaker-social)**
