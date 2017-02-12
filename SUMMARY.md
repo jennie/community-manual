@@ -7,6 +7,6 @@
   * [Mentor and Volunteer Guidelines](community-guidelines/mentor-and-volunteer-guidelines.md)
 * [Policies](policies.md)
   * Festival Entry Fee Remuneration Policy
+  * [Speaker and Artist Fee Policy](speaker-and-artist-fee-policy.md)
   * [Conflict Resolution Policy](conflict-resolution-policy.md)
-  * Speaker and Artist Fee Policy
 
