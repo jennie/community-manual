@@ -8,6 +8,8 @@
   * [How to Run a Game Jam](community-guidelines/how-to-run-a-game-jam.md)
 * [Policies](policies/README.md)
   * [Conflict Resolution Policy](policies/conflict-resolution-policy.md)
+  * Reporting Violations of the CoC
+  * Procedures
   * [Festival Entry Fee Remuneration Policy](policies/festival-entry-fee-remuneration-policy.md)
   * [Speaker and Artist Fee Policy](policies/speaker-and-artist-fee-policy.md)
 
