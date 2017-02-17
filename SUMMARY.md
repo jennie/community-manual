@@ -6,11 +6,11 @@
   * [Avoiding Ableist Language](community-guidelines/avoiding-ableist-language.md)
   * [Mentor and Volunteer Guidelines](community-guidelines/mentor-and-volunteer-guidelines.md)
   * [How to Run a Game Jam](community-guidelines/how-to-run-a-game-jam.md)
-* [Policies](policies/README.md)
+* [Policies and Procedures](policies/README.md)
   * [Conflict Resolution Policy](policies/conflict-resolution-policy.md)
   * [Conflict Resolution Procedures](policies/procedures.md)
   * [Festival Entry Fee Remuneration Policy](policies/festival-entry-fee-remuneration-policy.md)
   * [Speaker and Artist Fee Policy](policies/speaker-and-artist-fee-policy.md)
-* Code of Conduct
-  * Reporting Violations of the CoC
+* [Code of Conduct](code-of-conduct.md)
+  * [Reporting Violations of the CoC](code-of-conduct/reporting-violations-of-the-coc.md)
 
