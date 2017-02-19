@@ -76,7 +76,17 @@ After the meeting, let the harasser know what action is being taken. Say, "If yo
 
 #### About Apologies
 
+Do not ask the offender to apologize to the victim. DMG has no responsibility to enforce friendship, reconciliation, or anything beyond stopping harassment between members or event attendees.
+
+Forcing a victim of harassment to acknowledge an apology from their harasser forces further contact with their harasser. It also creates a social expectation that they will accept the apology, forgive their harasser, and return their social connection to its previous status.
+
+If the harasser offers to apologize to the victim (especially in person), we suggest strongly discouraging it. If a staff member relays an apology to the victim, it should be brief and not require a response.
+
+If the harasser attempts to press an apology on someone who would clearly prefer to avoid them, or attempts to recruit others to relay messages on their behalf, this constitutes continued harassment.
+
 ### Data Retention
+
+
 
 ### Communicating with the Community
 
