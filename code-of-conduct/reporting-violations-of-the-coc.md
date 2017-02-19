@@ -25,27 +25,30 @@ Collect a written account, or transcribe verbal report. Gather this information 
 
 ### Response
 
-**DO:**
-- …assess immediate threat to safety or wellbeing of participants
-- …allow the reporter a chance to decide if any further action is taken:
-    - **"This sounds like a breach of our Code of Conduct. If you're OK with it, I am going to meet with a small group of people and figure out what our response will be."** Pause, and see if they say they do not want this. Otherwise, go ahead.
+If an issue is reported during an event:
 
-**DO NOT:**
-- …ask for their advice on how to deal with the complaint
-- …offer them input into penalties
-- …share details of the people involved or incident without specific permission from the victim. This includes sharing with other staff
-- …involve law enforcement or security unless the victim explicitly requests that you do so – unless there is a threat to other people's physical safety
+1. Assess the severity of the violation. **If anyone's physical safety is threatened, immediately remove the offender from the venue and contact law enforcement.**
+2. Provide the victim a private place to sit, and offer to fetch a friend to sit with them.
+3. Allow the victim a chance to decide if any further action is taken: "This sounds like a breach of our Code of Conduct. **If you're OK with it,** I am going to meet with a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
+4. Let them know that the conflict resolution ("CR") committee will handle the matter according to DMG policies, and walk them through the steps. Let them know that the CR team will keep them in the loop about any actions taken.
+5. Make sure they know that their identity will not be disclosed to anyone – including the offender – except the CR team.
+
+
+**DO NOT** ask for their advice on how to deal with the complaint.
+**DO NOT** offer them input into penalties.
+**DO NOT** share details of the people involved or incident without specific permission from the victim. This includes sharing with other staff.
+**DO NOT** involve law enforcement or security unless the victim explicitly requests that you do so, or if there is a threat to other people's physical safety.
 
 ### Committee Meeting
 
-Members of the conflict resolution committee should meet as soon as possible after a report – ideally within one week – to discuss:
+Members of the CR committee should meet as soon as possible after a report – ideally within one week – to discuss:
 
 * What happened?
 * What are we doing about it?
 * Who is doing those things?
 * When are they doing them?
 
-Neither the complainant nor the alleged harasser should attend, even if they are a member of staff, the conflict resolution committee, or a director.
+Neither the complainant nor the alleged harasser should attend, even if they are a member of staff, the CR committee, or a director.
 
 Before or during the above meeting, let the alleged harasser know that there is a complaint about them. Give them the opportunity to  tell a member of the committee their side of the story, and if they do, have that person take it into the meeting.
 
