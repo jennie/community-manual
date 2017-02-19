@@ -38,6 +38,20 @@ Collect a written account, or transcribe verbal report. Gather this information 
 
 ### Committee Meeting
 
+Members of the conflict resolution committee should meet as soon as possible after a report – ideally within one week – to discuss:
+
+* What happened?
+* What are we doing about it?
+* Who is doing those things?
+* When are they doing them?
+
+Neither the complainant nor the alleged harasser should attend, even if they are a member of staff, the conflict resolution committee, or a director.
+
+Before or during the above meeting, let the alleged harasser know that there is a complaint about them. Give them the opportunity to  tell a member of the committee their side of the story, and if they do, have that person take it into the meeting.
+
+After the meeting, let the harasser know what action is being taken. Say, "If you'd like to discuss this further, please contact \[x\], but in the meantime, you must \[x\]."
+
+
 ### Sanctions
 
 #### About Apologies

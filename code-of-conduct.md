@@ -36,7 +36,6 @@ Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬i
 Anyone who engages in sustained ‬unacceptable behavior may be sanctioned ‬or‭ ‬permanent‭ly ‬expelled‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ (‬and‭ ‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭)‬.
 
 
-
 *By registering for or hosting an event, you agree to make your name visible to event organizers and facility staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host.*
 
-[1]:	mailto:jennie@gammaspace.ca
+[1]:	mailto:jennie@dmg.to
