@@ -25,21 +25,36 @@ Collect a written account, or transcribe verbal report. Gather this information 
 
 ### Response
 
-If an issue is reported during an event:
-
-1. Assess the nature and severity of the violation.
-    - **If anyone's physical safety is threatened, immediately remove the offender from the venue and contact law enforcement.**
-    - If it an interpersonal issue and not a violation of the Code of Conduct, refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md).
+If an issue is reported during an event, first assess the nature and severity of the violation.
+    - If anyone's physical safety is threatened, immediately remove the offender from the venue and contact law enforcement.
+    - If it is an interpersonal issue and not a clear violation of the Code of Conduct, refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md) and offer the support of the CR committee.
+    - If the offender is engaged in sustained or repeat violations of the Code of Conduct and has been warned, ask them to leave the venue immediately.
+    - In all other cases:
 2. Provide the victim a private place to sit, and offer to fetch a friend to sit with them.
 3. Allow the victim a chance to decide if any further action is taken: "This sounds like a breach of our Code of Conduct. **If you're OK with it,** I am going to meet with a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
 4. Let them know that the conflict resolution ("CR") committee will handle the matter according to DMG policies, and walk them through the steps. Let them know that the CR team will keep them in the loop about any actions taken.
 5. Make sure they know that their identity will not be disclosed to anyone – including the offender – except the CR team.
 
 
-**DO NOT** ask for their advice on how to deal with the complaint.
-**DO NOT** offer them input into penalties.
+**DO NOT** ask the victim for advice on how to deal with the complaint.
+**DO NOT** offer the victim input into penalties.
 **DO NOT** share details of the people involved or incident without specific permission from the victim. This includes sharing with other staff.
 **DO NOT** involve law enforcement or security unless the victim explicitly requests that you do so, or if there is a threat to other people's physical safety.
+
+### Incident Report
+
+When an issue is reported, whether it is referred to the conflict resolution policy or considered a Code of Conduct violation, the CR committee should complete a written report covering:
+
+* Who, when, where, how was the incident originally reported?
+* Who received the report?
+* When and where did the reported incident happen?
+* Who was involved?
+* Description of the incident: What happened? Who was impacted?
+* What action will be taken? Who will meet with the offender and victim?
+* If the offender has been warned, how did they respond? Were they humble and contrite? Did they immediately stop the behavior?
+* Document every communication from staff or committee members related to the incident, especially to third parties, and justify them.
+* Document the date of the CR committee meeting(s) and any decisions and follow-up communications related to the incident.
+
 
 ### Committee Meeting
 
