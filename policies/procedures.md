@@ -6,7 +6,8 @@
 2. When disagreements arise, it is expected that the parties involved will attempt to speak with each other about their concerns. In addition to the following considerations, both parties in this conversation will use the DMG Code of Conduct as their guide for how to conduct themselves in discussing the dispute. 
 	* Choose a time and place to meet that is private and agreeable to both people
 	* Allow a reasonable amount of time. 
-	* The meeting is not about one person “winning” and the other ”losing.” It is about coming to a mutual understanding. This takes patience and a willingness to listen to the other’s point of view and not to dismiss it as the “wrong” point of view. 	* Speak directly from how you feel/think or felt/thought, and speak directly to the issue. By using “I” Statements and “Active Listening” techniques you can avoid belittling the other person, or dismissing their thoughts or feelings.
+	* The meeting is not about one person “winning” and the other ”losing.” It is about coming to a mutual understanding. This takes patience and a willingness to listen to the other’s point of view and not to dismiss it as the “wrong” point of view.
+	* Speak directly from how you feel/think or felt/thought, and speak directly to the issue. By using “I” Statements and “Active Listening” techniques you can avoid belittling the other person, or dismissing their thoughts or feelings.
 	* Ideally you will be able to learn from the conversation how to avoid miscommunication and/or misunderstanding in future. Helpful questions to this end include, “If what I / you said or did came across like that, what should I / we do to guard against this happening again?” 	
 3. If step 2 does not work, the Complainant may ask for assistance, from the appropriate Responsible Contact Person (see below). This may be done orally or in writing.
 

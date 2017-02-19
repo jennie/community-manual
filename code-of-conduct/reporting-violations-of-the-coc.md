@@ -27,7 +27,9 @@ Collect a written account, or transcribe verbal report. Gather this information 
 
 If an issue is reported during an event:
 
-1. Assess the severity of the violation. **If anyone's physical safety is threatened, immediately remove the offender from the venue and contact law enforcement.**
+1. Assess the nature and severity of the violation.
+    - **If anyone's physical safety is threatened, immediately remove the offender from the venue and contact law enforcement.**
+    - If it an interpersonal issue and not a violation of the Code of Conduct, refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md).
 2. Provide the victim a private place to sit, and offer to fetch a friend to sit with them.
 3. Allow the victim a chance to decide if any further action is taken: "This sounds like a breach of our Code of Conduct. **If you're OK with it,** I am going to meet with a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
 4. Let them know that the conflict resolution ("CR") committee will handle the matter according to DMG policies, and walk them through the steps. Let them know that the CR team will keep them in the loop about any actions taken.

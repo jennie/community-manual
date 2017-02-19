@@ -8,6 +8,7 @@ By becoming a member of Dames Making Games, or attending or hosting any DMG even
 
 We insist that everyone who uses the space remains mindful of, and takes responsibility for, their speech and behavior. This includes:
 
+- **Prioritizing** the expression of people who are traditionally marginalized in tech and game spaces, especially those whom DMG specifically serves: trans and cis women, genderqueer, nonbinary and Two Spirit people; people who are racialized, neurodiverse, and/or have disabilities.
 - Always acting out of respect and concern for the free expression of others.
 - Actively listening to others and not dominating discussions.
 - Respecting physical and emotional boundaries. Always ask before touching, and check in before discussing topics that may be triggering.
