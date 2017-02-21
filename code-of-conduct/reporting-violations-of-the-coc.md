@@ -28,6 +28,8 @@ Collect a written account, or transcribe verbal report. Gather this information 
 If an issue is reported during an event, first assess the nature and severity of the violation.
 - If anyone's physical safety is threatened, immediately remove the offender from the venue and contact law enforcement.
 - If it is an interpersonal issue and not a clear violation of the Code of Conduct, refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md) and offer the support of the CR committee.
+    - hello
+    - hi
 - If the offender is engaged in sustained or repeat violations of the Code of Conduct and has been warned, ask them to leave the venue immediately.
 
 In all other cases:
@@ -42,6 +44,7 @@ In all other cases:
 **DO NOT** offer the victim input into penalties.
 **DO NOT** share details of the people involved or incident without specific permission from the victim. This includes sharing with other staff.
 **DO NOT** involve law enforcement or security unless the victim explicitly requests that you do so, or if there is a threat to other people's physical safety.
+
 
 ### Incident Report
 
