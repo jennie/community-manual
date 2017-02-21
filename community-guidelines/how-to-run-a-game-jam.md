@@ -180,7 +180,7 @@ Make sure latecomers don’t feel left out. Find them a seat and power, introduc
 
 ### Volunteers
 
-Keep coffee flowing, help maintain a clean jam space, pick up food from caterer or restaurant, and answer technical questions. If volunteers are also acting as mentors, have them read How to be a Good Mentor.
+Keep coffee flowing, help maintain a clean jam space, pick up food from caterer or restaurant, and answer technical questions. If volunteers are also acting as mentors, have them read [Mentor and Volunteer Guidelines](/community-guidelines/mentor-and-volunteer-guidelines.md).
 
 ### Getting Jammers Unstuck: Working in a spiral
 
