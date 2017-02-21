@@ -10,6 +10,14 @@ We **prioritize people who are traditionally marginalized** in tech and game spa
 
 If this does not describe you, that doesn't mean you aren't welcome here! It just means that our time, effort, attention, and programming revolves around needs and interests that might not match your own. We hope you'll join as a friend, and look for ways your skills and experience can support our mission and our membership.
 
+What DMG does adapts to what the community wants and needs. Some common themes include:
+
+* Seeding and incubating new cross-disciplinary, cross-community collaborative works that center on playful interactivity
+* Giving up and reclaiming space for Black, Indigenous and creators of colour
+* Grounding our work in the experience of living, working, and creating in Toronto
+* Extending, subverting, repurposing software and hardware tools
+* Exploring alternatives to industry ecosystems, economies and distribution platforms
+
 ## So, why are you here?
 
 People join DMG for lots of different reasons. Here are a few of the kinds of people who are part of this organization:
