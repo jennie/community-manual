@@ -14,4 +14,5 @@
 * [Code of Conduct](code-of-conduct.md)
   * [Reporting Violations](code-of-conduct/reporting-violations-of-the-coc.md)
     * [For Staff/Organizers](for-stafforganizers.md)
+  * [For Members/Participants](code-of-conduct/for-membersparticipants.md)
 
