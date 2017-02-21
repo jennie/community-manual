@@ -26,14 +26,16 @@ Collect a written account, or transcribe verbal report. Gather this information 
 ### Response
 
 If an issue is reported during an event, first assess the nature and severity of the violation.
-    - If anyone's physical safety is threatened, immediately remove the offender from the venue and contact law enforcement.
-    - If it is an interpersonal issue and not a clear violation of the Code of Conduct, refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md) and offer the support of the CR committee.
-    - If the offender is engaged in sustained or repeat violations of the Code of Conduct and has been warned, ask them to leave the venue immediately.
-    - In all other cases:
-2. Provide the victim a private place to sit, and offer to fetch a friend to sit with them.
-3. Allow the victim a chance to decide if any further action is taken: "This sounds like a breach of our Code of Conduct. **If you're OK with it,** I am going to meet with a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
-4. Let them know that the conflict resolution ("CR") committee will handle the matter according to DMG policies, and walk them through the steps. Let them know that the CR team will keep them in the loop about any actions taken.
-5. Make sure they know that their identity will not be disclosed to anyone – including the offender – except the CR team.
+- If anyone's physical safety is threatened, immediately remove the offender from the venue and contact law enforcement.
+- If it is an interpersonal issue and not a clear violation of the Code of Conduct, refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md) and offer the support of the CR committee.
+- If the offender is engaged in sustained or repeat violations of the Code of Conduct and has been warned, ask them to leave the venue immediately.
+
+In all other cases:
+
+1. Provide the victim a private place to sit, and offer to fetch a friend to sit with them.
+2. Allow the victim a chance to decide if any further action is taken: "This sounds like a breach of our Code of Conduct. **If you're OK with it,** I am going to meet with a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
+3. Let them know that the conflict resolution ("CR") committee will handle the matter according to DMG policies, and walk them through the steps. Let them know that the CR team will keep them in the loop about any actions taken.
+4. Make sure they know that their identity will not be disclosed to anyone – including the offender – except the CR team.
 
 
 **DO NOT** ask the victim for advice on how to deal with the complaint.
@@ -85,8 +87,6 @@ If the harasser offers to apologize to the victim (especially in person), we sug
 If the harasser attempts to press an apology on someone who would clearly prefer to avoid them, or attempts to recruit others to relay messages on their behalf, this constitutes continued harassment.
 
 ### Data Retention
-
-
 
 ### Communicating with the Community
 
