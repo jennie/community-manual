@@ -1,23 +1,24 @@
 # DMG Toronto Community Documentation
 
-## While we welcome everyone to our events and our space, **DMG is specifically for trans and cis women, genderqueer, nonbinary and Two Spirit people.**
+## The most important thing
+
+While we welcome everyone to (almost all of) our events and our space, **DMG is specifically for trans and cis women, genderqueer, nonbinary and Two Spirit people.**
 
 DMG is an **explicitly feminist space**.
 
-We **prioritize people who are traditionally marginalized** in tech and game spaces, especially those whom DMG specifically serves, as well as people who are racialized, neurodiverse, and/or have disabilities.
+We **prioritize people who are traditionally marginalized** in tech and game spaces, especially those whom DMG specifically serves, as well as people who are racialized, neurodiverse, and/or have disabilities. We expect all of our members to do the same.
 
-**We expect all of our members to do the same.**
+If this does not describe you, that doesn't mean you aren't welcome here! It just means that our time, effort, attention, and programming revolves around needs and interests that might not match your own. We hope you'll join as a friend, and look for ways your skills and experience can support our mission and our membership.
 
 ## So, why are you here?
 
 People join DMG for lots of different reasons. Here are a few of the kinds of people who are part of this organization:
 
+* Anyone interested in exploring ways to express themselves creatively
 * Students who need additional support and opportunities for learning outside the classroom
 * Artists who enjoy the supportive, welcoming and stimulating environment DMG provides, even if they’re not creating games (yet!)
 * Experienced game designers who want to contribute to the community
 * People interested in developing technical and artistic skills, who want to hone their craft in an informal environment
-* Anyone interested in exploring ways to express themselves creatively
-
 
 One of our goals is to remove obstacles to our members’ success, and the best way you can help us do that is to think about what you hope to get out of DMG and contribute as a member. We ask these questions in your membership application, and look forward to talking to you about your aspirations at an event.
 
