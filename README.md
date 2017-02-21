@@ -1,6 +1,14 @@
 # DMG Toronto Community Documentation
 
-So, why are you here?
+## While we welcome everyone to our events and our space, **DMG is specifically for trans and cis women, genderqueer, nonbinary and Two Spirit people.**
+
+DMG is an **explicitly feminist space**.
+
+We **prioritize people who are traditionally marginalized** in tech and game spaces, especially those whom DMG specifically serves, as well as people who are racialized, neurodiverse, and/or have disabilities.
+
+**We expect all of our members to do the same.**
+
+## So, why are you here?
 
 People join DMG for lots of different reasons. Here are a few of the kinds of people who are part of this organization:
 
@@ -10,7 +18,6 @@ People join DMG for lots of different reasons. Here are a few of the kinds of pe
 * People interested in developing technical and artistic skills, who want to hone their craft in an informal environment
 * Anyone interested in exploring ways to express themselves creatively
 
-DMG is an explicitly feminist space. We prioritize people who are traditionally marginalized in tech and game spaces, especially those whom DMG specifically serves: Trans and cis women, genderqueer, nonbinary and Two Spirit people; people who are racialized, neurodiverse, and/or have disabilities. We expect all of our members to do the same.
 
 One of our goals is to remove obstacles to our members’ success, and the best way you can help us do that is to think about what you hope to get out of DMG and contribute as a member. We ask these questions in your membership application, and look forward to talking to you about your aspirations at an event.
 
