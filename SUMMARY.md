@@ -13,6 +13,6 @@
   * [Speaker and Artist Fee Policy](policies/speaker-and-artist-fee-policy.md)
 * [Code of Conduct](code-of-conduct.md)
   * [Reporting Violations](code-of-conduct/reporting-violations-of-the-coc.md)
+    * [For Members/Participants](code-of-conduct/for-membersparticipants.md)
     * [For Staff/Organizers](for-stafforganizers.md)
-  * [For Members/Participants](code-of-conduct/for-membersparticipants.md)
 
