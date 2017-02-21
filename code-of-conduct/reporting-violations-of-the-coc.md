@@ -17,11 +17,11 @@ Community‭ ‬organizers‭ ‬are‭ ‬available‭ ‬to‭ ‬help‭ you 
 
 Collect a written account, or transcribe verbal report. Gather this information from the reporter – do not "interview" witnesses unless they approach staff:
 
-    - Name of the participant doing the harassing
-    - The behavior that was in violation
-    - The date and time of the behavior
-    - The circumstances surrounding the incident
-    - Other people involved in the incident
+- Name of the participant doing the harassing
+- The behavior that was in violation
+- The date and time of the behavior
+- The circumstances surrounding the incident
+- Other people involved in the incident
 
 ### Response
 
