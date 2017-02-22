@@ -29,10 +29,10 @@ If an issue is reported during an event, first assess the nature and severity of
 | :--- | :--- |
 | An interpersonal problem or dispute that is **clearly not a violation of the [Code of Conduct](/code-of-conduct.md)** <br><small>(i.e., the offender has not definitely not engaged in any of things listed under _Unacceptable Behavior_)</small> | Refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md) and offer the support of the CR committee |
 | A first Code of Conduct violation has been observed or reported – but it is not severely disruptive | Warn the offender |
-| An offender is engaged in sustained or repeat violations of the Code of Conduct and has been warned, or the offense is serious (e.g., assaulting, groping, taking up-skirt photos) | Immediately remove the offender from the venue; permanently sanction | 
-| Anyone's physical safety is threatened | Immediately remove the offender from the venue and contact law enforcement |
+| An offender is engaged in sustained or repeat violations of the Code of Conduct and has been warned, or the offense is serious (e.g., assaulting, groping, taking up-skirt photos) | Immediately remove the offender from the venue; permanently ban | 
+| Anyone's physical safety is threatened | Immediately remove the offender from the venue and contact law enforcement; permanently ban |
 
-Offenders will be permanently sanctioned if they:
+Offenders will be indefinitely sanctioned if they:
 
 - Commit a second offense that would result in a warning from staff
 - Continue to harass after any "No" or "Stop" instruction
@@ -92,6 +92,11 @@ If the harasser attempts to press an apology on someone who would clearly prefer
 
 ### Data Retention
 
+All initial incident reports and incident logs should be retained permanently, regardless of action taken against the harasser.
+
+Reports should be stored in a Google Drive document, and access shared only with current CR committee members, staff and members of the board of directors. The chair of the CR committee should control access, removing and adding privileges as staff and members turn over.
+
+Providing access and information about the records should be part of the board member, staff, and committee onboarding process.
 
 ### Communicating with the Community
 
