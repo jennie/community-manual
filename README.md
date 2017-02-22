@@ -2,7 +2,7 @@
 
 ## The most important thing
 
-While we welcome everyone to (almost all of) our events and our space, **DMG is specifically for trans and cis women, genderqueer, nonbinary and Two Spirit people.**
+While we welcome everyone to (almost all of) our events and our space, **DMG is specifically for genderqueer, nonbinary, femme people, Two Spirit people, and trans and cis women.**
 
 DMG is an **explicitly feminist space**.
 
