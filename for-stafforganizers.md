@@ -21,7 +21,6 @@ In any case, when a complainant reports a problem to an organizer, follow these 
 3. Let them know that the conflict resolution ("CR") committee will handle the matter according to DMG policies, and walk them through next steps. Let them know that the CR team will keep them in the loop about any actions taken.
 4. Make sure they know that their identity will not be disclosed to anyone – including the offender – except the CR team.
 
-
 ### Response
 
 If an issue is reported during an event, first assess the nature and severity of the violation.
