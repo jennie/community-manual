@@ -24,7 +24,7 @@ We believe that failing to address dynamics of hierarchy, power and privilege al
 
 **Oppressive behavior**: any conduct that demeans, marginalizes, rejects, threatens or harms anyone on the basis of identity, background, or ability.
 
-**Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, slanderous, derogatory, or threatening comments online or in person; and unwanted physical contact or sexual attention.
+**Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, slanderous, derogatory, or threatening comments online or in person; and unwanted physical or electronic contact or sexual attention.
 
 **Destructive behavior**: damaging or altering any part of the building, inside or out, including furniture and equipment; damaging, altering or using other people's belongings, including personal computers and digital content or code created by other people (unless you have their consent).
 
@@ -41,7 +41,7 @@ If you are being – or have been at any point in the past – harassed by a mem
 
 Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬is‭ ‬expected‭ ‬to‭ ‬comply‭ ‬immediately. 
 
-DMG is a **private space** and we reserve the right to remove any person at any time for any reason.
+DMG is a **private space** and we reserve the right to remove any person at any time for any reason. We are ultimately responsible to victims and the DMG community.
 
 Anyone who engages in sustained or repeated ‬unacceptable behavior may be sanctioned ‬or‭ ‬permanent‭ly ‬expelled‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ (‬and‭ ‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭)‬.
 

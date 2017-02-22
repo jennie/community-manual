@@ -2,7 +2,9 @@
 
 ## Receiving reports
 
-Collect a written account, or transcribe a verbal report. Gather this information from the reporter – do not "interview" witnesses unless they approach staff:
+### Initial incident report
+
+Collect a written account, or transcribe a verbal report. Gather this information from the reporter – do not "interview" witnesses unless they approach staff.
 
 - Name of the participant doing the harassing
 - The behavior that was in violation
@@ -10,31 +12,38 @@ Collect a written account, or transcribe a verbal report. Gather this informatio
 - The circumstances surrounding the incident
 - Other people involved in the incident
 
+### Conversation with victim
+
+In any case, when a complainant reports a problem to an organizer, follow these steps to ensure they feel safe:
+
+1. Provide the victim a private place to sit, and offer to fetch a friend to sit with them.
+2. Allow the victim a chance to decide if any further action is taken: "This sounds like a breach of our Code of Conduct. **If you're OK with it,** I am going to meet with a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
+3. Let them know that the conflict resolution ("CR") committee will handle the matter according to DMG policies, and walk them through next steps. Let them know that the CR team will keep them in the loop about any actions taken.
+4. Make sure they know that their identity will not be disclosed to anyone – including the offender – except the CR team.
+
+
 ### Response
 
 If an issue is reported during an event, first assess the nature and severity of the violation.
 
 | Issue | Response |
 | :--- | :--- |
-| An interpersonal problem that is **not a clear violation of the [Code of Conduct](/code-of-conduct.md)** <br><small>(i.e., the offender has not engaged in any of things listed under _Unacceptable Behavior_)</small> | Refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md) and offer the support of the CR committee |
-| A Code of Conduct violation has been observed or reported – but it is not severely disruptive | Immediately warn the offender |
-| An offender is engaged in sustained or repeat violations of the Code of Conduct and has been warned, or if the offense is severely disruptive | Immediately remove the offender from the venue | 
+| An interpersonal problem or dispute that is **clearly not a violation of the [Code of Conduct](/code-of-conduct.md)** <br><small>(i.e., the offender has not definitely not engaged in any of things listed under _Unacceptable Behavior_)</small> | Refer the reporter to the [Conflict Resolution Policy](/policies/conflict-resolution-policy.md) and offer the support of the CR committee |
+| A first Code of Conduct violation has been observed or reported – but it is not severely disruptive | Warn the offender |
+| An offender is engaged in sustained or repeat violations of the Code of Conduct and has been warned, or the offense is serious (e.g., assaulting, groping, taking up-skirt photos) | Immediately remove the offender from the venue; permanently sanction | 
 | Anyone's physical safety is threatened | Immediately remove the offender from the venue and contact law enforcement |
 
+Offenders will be permanently sanctioned if they:
 
-In any case, when a complainant reports a problem to an organizer, follow these steps to ensure they feel safe:
+- Commit a second offense that would result in a warning from staff
+- Continue to harass after any "No" or "Stop" instruction
+- Exhibit a pattern of harassing behavior, with or without warnings
 
-1. Provide the victim a private place to sit, and offer to fetch a friend to sit with them.
-2. If the incident iAllow the victim a chance to decide if any further action is taken: "This sounds like a breach of our Code of Conduct. **If you're OK with it,** I am going to meet with a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
-3. Let them know that the conflict resolution ("CR") committee will handle the matter according to DMG policies, and walk them through next steps. Let them know that the CR team will keep them in the loop about any actions taken.
-4. Make sure they know that their identity will not be disclosed to anyone – including the offender – except the CR team.
+### Preventing retaliation
 
+The privacy and safety of the victim is very important. Be very careful about the details you share about the incident, and with whom.
 
-**DO NOT** ask the victim for advice on how to deal with the complaint.
-**DO NOT** offer the victim input into penalties.
-**DO NOT** share details of the people involved or incident without specific permission from the victim. This includes sharing with other staff.
-**DO NOT** involve law enforcement or security unless the victim explicitly requests that you do so, or if there is a threat to other people's physical safety.
-
+**DO NOT** share details of the people involved or incident beyond the CR committee without specific permission from the victim.
 
 ### Committee Meeting
 
@@ -49,7 +58,14 @@ Neither the complainant nor the alleged harasser should attend, even if they are
 
 Before or during the above meeting, let the alleged harasser know that there is a complaint about them. Give them the opportunity to  tell a member of the committee their side of the story, and if they do, have that person take it into the meeting.
 
-After the meeting, let the harasser know what action is being taken. Say, "If you'd like to discuss this further, please contact \[x\], but in the meantime, you must \[x\]."
+#### After the meeting
+
+Once a decision has been made about what action will be taken, contact the harasser. Convey the consequences without discussing details or rationale, and say: "If you'd like to discuss this further, please contact \[x\], but in the meantime, you must \[x\]."
+
+**DO NOT** ask the victim for advice on how to deal with the complaint.
+**DO NOT** offer the victim input into penalties.
+
+Once action has been taken, follow up with the victim and let them know what has been done, and that you are here to support them.
 
 ### Incident log
 
@@ -60,7 +76,10 @@ When an issue is reported, whether it is referred to the conflict resolution pol
 * Document the date of the CR committee meeting(s) and any decisions and follow-up communications related to the incident.
 * Refer to the CR committee terms of reference for more information on proper channels of communication and logging.
 
+The CR committee should follow up with the complainant, record the full details of how the incident was resolved, and prepare a report for the board.
+
 ### Sanctions
+
 
 #### About Apologies
 
@@ -68,11 +87,12 @@ Do not ask the offender to apologize to the victim. DMG has no responsibility to
 
 Forcing a victim of harassment to acknowledge an apology from their harasser forces further contact with their harasser. It also creates a social expectation that they will accept the apology, forgive their harasser, and return their social connection to its previous status.
 
-If the harasser offers to apologize to the victim (especially in person), we suggest strongly discouraging it. If a staff member relays an apology to the victim, it should be brief and not require a response.
+If the harasser offers to apologize to the victim, strongly discourage it. If a staff member relays an apology to the victim, it should be brief and not require a response.
 
-If the harasser attempts to press an apology on someone who would clearly prefer to avoid them, or attempts to recruit others to relay messages on their behalf, this constitutes continued harassment.
+If the harasser attempts to press an apology on someone who would clearly prefer to avoid them, or attempts to recruit others to relay messages on their behalf, this constitutes continued harassment and is grounds for permanent expulsion.
 
 ### Data Retention
+
 
 ### Communicating with the Community
 
