@@ -24,14 +24,13 @@ We believe that failing to address dynamics of hierarchy, power and privilege al
 
 **Oppressive behavior**: any conduct that demeans, marginalizes, rejects, threatens or harms anyone on the basis of identity, background, or ability.
 
-**Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, derogatory, or threatening comments; and unwanted physical contact or sexual attention.
+**Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, slanderous, derogatory, or threatening comments online or in person; and unwanted physical contact or sexual attention.
 
 **Destructive behavior**: damaging or altering any part of the building, inside or out, including furniture and equipment; damaging, altering or using other people's belongings, including personal computers and digital content or code created by other people (unless you have their consent).
 
 **Exclusionary actions**: denying certain participants opportunities to share views, skills and other contributions; engaging in favoritism; and creating or reinforcing an inequitable learning environment.
 
-If you are being – or have been at any point in the past – harassed by a member of the DMG community, or someone who attends events at our space, we want to know about it. DMG reserves the right to exclude people from events and membership based on their past behavior, including behavior outside our spaces and behavior towards people who are not part of the DMG community.
-
+If you are being – or have been at any point in the past – harassed by a member of the DMG community, or someone who attends events at our space, we want to know about it. This includes harassment that happens outside our spaces and events. DMG may choose to exclude people from events and membership based on their past behavior, including behavior outside our spaces and behavior towards people who are not part of the DMG community.
 
 ## How to Report a Violation or Discuss a Concern
 
