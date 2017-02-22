@@ -8,7 +8,7 @@ By becoming a member of Dames Making Games, or attending or hosting any DMG even
 
 We insist that everyone who uses the space remains mindful of, and takes responsibility for, their speech and behavior. This includes:
 
-- **Prioritizing** the expression of people who are traditionally marginalized in tech and game spaces, especially those whom DMG specifically serves: trans and cis women, genderqueer, nonbinary and Two Spirit people; people who are racialized, neurodiverse, and/or have disabilities.
+- **Prioritizing** the expression of people who are marginalized in tech and game spaces, especially those whom DMG specifically serves: trans and cis women, genderqueer, nonbinary and Two Spirit people; people who are racialized, neurodiverse, and/or have disabilities.
 - Always acting out of respect and concern for the free expression of others.
 - Actively listening to others and not dominating discussions.
 - Respecting physical and emotional boundaries. Always ask before touching, and check in before discussing topics that may be triggering.
@@ -30,11 +30,21 @@ We believe that failing to address dynamics of hierarchy, power and privilege al
 
 **Exclusionary actions**: denying certain participants opportunities to share views, skills and other contributions; engaging in favoritism; and creating or reinforcing an inequitable learning environment.
 
+If you are being – or have been at any point in the past – harassed by a member of the DMG community, or someone who attends events at our space, we want to know about it. DMG reserves the right to exclude people from events and membership based on their past behavior, including behavior outside our spaces and behavior towards people who are not part of the DMG community.
+
+
+## How to Report a Violation or Discuss a Concern
+
+- [As an event attendee, participant or member](/code-of-conduct/for-membersparticipants.md)
+
+
 ## Enforcement
 
-Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬is‭ ‬expected‭ ‬to‭ ‬comply‭ ‬immediately.
+Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬is‭ ‬expected‭ ‬to‭ ‬comply‭ ‬immediately. 
 
-Anyone who engages in sustained ‬unacceptable behavior may be sanctioned ‬or‭ ‬permanent‭ly ‬expelled‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ (‬and‭ ‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭)‬.
+DMG is a **private space** and we reserve the right to remove any person at any time for any reason.
+
+Anyone who engages in sustained or repeated ‬unacceptable behavior may be sanctioned ‬or‭ ‬permanent‭ly ‬expelled‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ (‬and‭ ‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭)‬.
 
 
 *By registering for or hosting an event, you agree to make your name visible to event organizers and facility staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host.*
