@@ -11,8 +11,8 @@
   * [Conflict Resolution Procedures](policies/procedures.md)
   * [Festival Entry Fee Remuneration Policy](policies/festival-entry-fee-remuneration-policy.md)
   * [Speaker and Artist Fee Policy](policies/speaker-and-artist-fee-policy.md)
-* [Code of Conduct](code-of-conduct.md)
+* [Code of Conduct](code-of-conduct/code-of-conduct.md)
   * [Reporting Violations](code-of-conduct/reporting-violations-of-the-coc.md)
     * [For Members/Participants](code-of-conduct/for-membersparticipants.md)
-    * [For Staff/Organizers](for-stafforganizers.md)
+    * [For Staff/Organizers](code-of-conduct/for-stafforganizers.md)
 
