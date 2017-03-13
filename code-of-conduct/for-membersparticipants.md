@@ -4,7 +4,14 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
 
 - The host of the event you are attending (listed on the event page)
 - Any DMG volunteer, staff person, or director
-- Any member of the conflict resolution committee
+- Any member of the conflict resolution committee:
+    - Gabriela Aveiro-Ojeda (co-chair)
+    - Izzie Colpitts-Campbell (co-chair)
+    - Jennie Robinson Faber    
+    - Kaitlin Tremblay
+    - Jen Costa
+
+You can also email [hr@dmg.to](mailto:hr@dmg.to) to reach the current chair (or co-chairs) of the conflict resolution committee.
 
 Your conversation will be held in confidence.
 
