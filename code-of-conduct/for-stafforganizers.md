@@ -97,7 +97,3 @@ All initial incident reports and incident logs should be retained permanently, r
 Reports should be stored in a Google Drive document, and access shared only with current CR committee members, staff and members of the board of directors. The chair of the CR committee should control access, removing and adding privileges as staff and members turn over.
 
 Providing access and information about the records should be part of the board member, staff, and committee onboarding process.
-
-### Communicating with the Community
-
-### Public Response
