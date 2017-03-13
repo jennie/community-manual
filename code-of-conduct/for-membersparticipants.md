@@ -7,7 +7,7 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
 - Any member of the conflict resolution committee:
     - Gabriela Aveiro-Ojeda (co-chair)
     - Izzie Colpitts-Campbell (co-chair)
-    - Jennie Robinson Faber    
+    - Jennie Robinson Faber (ex-oficio)
     - Kaitlin Tremblay
     - Jen Costa
 
