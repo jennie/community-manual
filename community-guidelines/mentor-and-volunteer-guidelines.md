@@ -26,32 +26,26 @@ It’s _not_ a "learn to program" course. We _don’t_ just teach a specific dev
 
 ## Understanding DMG's goals and values
 
-DMG is a member organization that **values** collaborative learning, free self-expression, affirmation and creation.
+DMG is a member organization that **values** collaborative learning, free self-expression, affirmation and creation. Learn more about us here:
 
-We do not tolerate destructive, exclusionary, abusive, or silencing behavior.
-
-Our **goals** include:
-
-* Providing space and opportunities for our members to freely explore playing, critiquing and creating games
-* Demonstrating the value of diversity in a broad range of disciplines related to games
-* Highlighting the achievements of diverse gamemakers
-* Increasing the diversity of expression in all aspects of game culture
+* [Member introduction](/README.md)
+* [About DMG](https://dmg.to/about)
 
 Please read and affirm our [Code of Conduct](/code-of-conduct/code-of-conduct.md), and talk to an organizer if you are confused about anything.
 
 ## Understanding the goals of an intensive
 
-Our long programs are workshops that last four to six weeks with a set cohort of participants selected through an application process. The group meets two to three times per week, and receives one-on-one mentorship for the duration of the program, and six months beyond. The purpose of our long programs is to:
+Our intensive programs (Damage Camps) are workshops that last four to six weeks with a set cohort of participants selected through an application process. The group meets two to three times per week, and receives one-on-one mentorship for the duration of the program. The purpose of our long programs is to:
 
 * Create a friendly, open, collaborative experience for participants
 * Provide a safe and playful space for exploring creative ideas, as well as learning problem-solving and technical skills
 * Facilitate meaningful connections between participants and more experienced members of the DMG and Toronto game communities
 * Expose established members of the community to valuable new perspectives
-* Create makers, mentors, collaborators, and friends out of everyone involved!
+* Help create makers, mentors, collaborators, and friends out of everyone involved
 
 ## Who are you mentoring?
 
-Long program participants come from a **wide variety of backgrounds** and have a range of skills, interests and knowledge. Get to know them!
+Intensive participants come from a **wide variety of backgrounds** and have a range of skills, interests and knowledge. Get to know them!
 
 ## Inclusive Language and Behavior
 
@@ -59,8 +53,7 @@ It is critical that a safe, stress-free and inclusive environment is maintained 
 
 ### Respect Diverse Identities
 
-* Do not make assumptions about identity, experiences, or pronouns
-* Always use a person's pronouns
+* Do not make assumptions about identity, experiences, or pronouns and always use a person's pronouns if they've been communicated (default to "they" if not)
 * Allow participants space and time to disclose as much or as little information about their identity and background as they wish
 * Treat all participants with respect and assume they know more about what they are trying to create than you do
 
