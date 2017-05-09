@@ -1,26 +1,26 @@
 # Mentor and Volunteer Guidelines
 
-Thank you for volunteering to mentor! Whether or not this is your first time helping out at DMG this way, please take a moment to read through these guidelines.
+**Thank you for considering volunteering to mentor with Dames Making Games!** If this is your first time volunteering with DMG, please take a moment to read through these guidelines.
 
-_DMG is an explicitly feminist space. It is critical that all mentors and volunteers strive to take an intersectional approach to supporting the experiences of participants in our programs. While we greatly value the contributions of the many cis and trans men who support DMG, we prioritize cis and trans women, genderqueer, femme, nonbinary and Two Spirit individuals in our space and in our mentor and volunteer programs._
+_While we greatly value the contributions of everyone who supports DMG with their time and expertise, we strive to center and prioritize genderqueer, femme, nonbinary, Two Spirit folks and Black, Indigenous and women of colour in our space, and expect all mentors and volunteers to do the same._
 
 ## What is my role during the program?
 
-* You are an **adviser** and a **resource** — _not_ a teacher or instructor.
-* You help participants solve their own problems.
+* You are an _adviser_ and a _resource_ — _not_ a teacher or instructor.
+* You help participants _solve their own problems_.
 * You lend your experience and insight so new game makers can focus on the parts of the process they find most interesting and valuable.
 
 **Expect to learn as much from the participants as they will learn from you.**
 
-* Mentors are, without exception, active and trusted members of the DMG and/or Gamma Space communities. Everything we know about being a good mentor we learned from you at our previous programs, and owe a huge debt of gratitude to each of you for setting the tone for a truly supportive and collaborative community.
+* Mentors are, without exception, active and trusted members of the DMG and/or Gamma Space communities. Everything we know about being a good mentor we've learned from mentors and facilitators at our programs, and owe a huge debt of gratitude to everyone who has helped set the tone for a truly supportive and collaborative community.
 
-## What is a DMG immersive?
+## What is a DMG intensive?
 
-It’s _not_ a "learn to program" course. We _don’t_ just teach a specific development environment or language, or how to make a certain type of game. We _do_ provide:
+It’s _not_ a "learn to program" course. We _don’t_ just teach a specific development environment or language, or how to make a certain type of game or interactive experience. We _do_ provide:
 
-* A crash course in/survey of a wide range of technical and creative aspects of game-making \(design principles, composing, visual art, project management, and more\)
+* A crash course in/survey of a wide range of technical and creative aspects of game development \(design principles, composing, visual art, project management, and more\)
 * A game design vocabulary and opportunities to develop literacy around play
-* A safe and uncritical place to talk about what games mean to us
+* A safe and open place to talk about what games mean to us
 * A structured environment for individuals to find and express their creative voice and discover what interests them most about making games
 * A time and place for participants to learn from and support one another
 
@@ -37,9 +37,9 @@ Our **goals** include:
 * Highlighting the achievements of diverse gamemakers
 * Increasing the diversity of expression in all aspects of game culture
 
-Please read and affirm our [inclusiveness statement](https://dmg.to/inclusiveness), and talk to an organizer if you are confused about anything.
+Please read and affirm our [Code of Conduct](/code-of-conduct/code-of-conduct.md), and talk to an organizer if you are confused about anything.
 
-## Understanding the goals of an immersive
+## Understanding the goals of an intensive
 
 Our long programs are workshops that last four to six weeks with a set cohort of participants selected through an application process. The group meets two to three times per week, and receives one-on-one mentorship for the duration of the program, and six months beyond. The purpose of our long programs is to:
 
@@ -59,10 +59,10 @@ It is critical that a safe, stress-free and inclusive environment is maintained 
 
 ### Respect Diverse Identities
 
-* Do not make assumptions about identity, experiences, or preferred pronouns
-* Always use a person's preferred pronouns.
-* Allow participants space and time to disclose as much or as little information about their identity and background as they wish.
-* Treat all participants with respect and assume they know more about what they are trying to create than you do.
+* Do not make assumptions about identity, experiences, or pronouns
+* Always use a person's pronouns
+* Allow participants space and time to disclose as much or as little information about their identity and background as they wish
+* Treat all participants with respect and assume they know more about what they are trying to create than you do
 
 ### Respect Space and Agency
 
