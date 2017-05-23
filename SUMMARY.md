@@ -10,6 +10,7 @@
   * [Conflict Resolution Policy](policies/conflict-resolution-policy.md)
   * [Conflict Resolution Procedures](policies/procedures.md)
   * [Festival Entry Fee Remuneration Policy](policies/festival-entry-fee-remuneration-policy.md)
+  * [Ticket Refund Policy](policies/ticket-refund-policy.md)
   * [Speaker and Artist Fee Policy](policies/speaker-and-artist-fee-policy.md)
 * [Code of Conduct](code-of-conduct/code-of-conduct.md)
   * [Reporting Violations](code-of-conduct/reporting-violations-of-the-coc.md)
