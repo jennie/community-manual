@@ -10,6 +10,9 @@ We **prioritize people who are traditionally marginalized** in tech and game spa
 
 If this does not describe you, that doesn't mean you aren't welcome here! It just means that our time, effort, attention, and programming revolves around needs and interests that might not match your own. We hope you'll join as a friend, and look for ways your skills and experience can support our mission and our membership.
 
+We acknowledge the work of creating a safer, more equitable space is work that will never be complete, and that we're not perfect. The terms we use to describe our experience are always changing, and we are always listening and learning. We are eager to maintain and defend the inclusivity of this community. If you think of something that is missing from this handbook, or a way we could improve it, please send us an email at [info@dmg.to](mailto:info@dmg.to) or speak to an organizer.
+
+
 ## So, why are you here?
 
 People join DMG for lots of different reasons. Here are a few of the kinds of people who are part of this organization:
