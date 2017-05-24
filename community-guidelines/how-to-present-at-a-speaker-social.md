@@ -2,7 +2,7 @@
 
 ## Who presents at DMG Speaker Socials?
 
-Any genderqueer, nonbinary, femme person, Two Spirit individual or woman with a project related to interactive/immersive media art, computer or analog games!
+Any genderqueer, nonbinary, femme person, Two Spirit individual or woman with a project related to interactive/immersive media art, computer or analog games is invited to present a 10-15 talk and/or demo at our monthly social.
 
 You don't have to have created a polished, released game - even a sketch of an idea is interesting and we'd love to hear about it. We are interested all kinds of media artworks, computer and digital games – whether you're in a technical or non-technical role, a producer or support person, focused on music or art or narrative. Maybe you're not working on a game at all, but a writer, artist, musician producing work that game makers would be interested in or inspired by. We want you!
 
