@@ -7,6 +7,7 @@
   * [Avoiding Ableist Language](community-guidelines/avoiding-ableist-language.md)
   * [Mentor and Volunteer Guidelines](community-guidelines/mentor-and-volunteer-guidelines.md)
   * [How to Run a Game Jam](community-guidelines/how-to-run-a-game-jam.md)
+  * [Event Set Up and Tear Down](community-guidelines/event-set-up-and-tear-down.md)
 * [Policies and Procedures](policies/README.md)
   * [Conflict Resolution Policy](policies/conflict-resolution-policy.md)
   * [Conflict Resolution Procedures](policies/procedures.md)
