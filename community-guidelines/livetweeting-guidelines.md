@@ -46,11 +46,11 @@ If you feel uncomfortable about any responses that you get, Make us aware of the
 ## Questions or concerns:
 If you have a question to ask, feedback to give, a concern to raise or just need a pep talk before or a debrief after your livetweet, get in touch with us any time! Your contacts are:
 
-[Sophia Park](mailto:sophia@dmg.to) (Co-Director, Committee Promotion Committee Chair)
+[Sophia Park](mailto:sophia@dmg.to) — Co-Director, Committee Promotion Committee Chair)  
 [@sophiapark_](https://twitter.com/sophiapark_)
 
-Natalie Walschots, Community Promotion Committee Member
+Natalie Walschots — Community Promotion Committee Member  
 [@NatalieZed](https://twitter.com/NatalieZed)
 
-[Jennie Faber](mailto:jennie@dmg.to), Co-founder and Executive Director, Dames Making Games
+[Jennie Faber](mailto:jennie@dmg.to) — Co-founder and Executive Director, Dames Making Games  
 [@jennie](https://twitter.com/jennie)
