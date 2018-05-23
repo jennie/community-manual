@@ -8,7 +8,7 @@ You don't have to have created a polished, released game - even a sketch of an i
 
 ## What's it like to give a presentation at a DMG event?
 
-All **Speaker Socials** happen at our headquarters, Gamma Space, located at 32 Lisgar Street \(in the new Toronto Media Arts Centre\) in Toronto. We have a studio space for our members to work and hang out, and a gallery.
+All **Speaker Socials** happen at our headquarters located at 32 Lisgar Street \(in the new Toronto Media Arts Centre\) in Toronto. We have a studio space for our members to work and hang out, and a gallery.
 
 You'll have access to a projector and screen, a microphone and sound board - and all the cables you could possibly need! Arrive at least 15 minutes before the start of the social, and we'll get you all set up. _If you need other specialized equipment, please let us know ahead of time._
 
