@@ -1,7 +1,7 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [Territorial Acknowledgment](community-guidelines/territorial-acknowledgment.md)
+* [Territorial Acknowledgment](territorial-acknowledgment.md)
 * [Community Guidelines](community-guidelines/README.md)
   * [How To Present at a Speaker Social](community-guidelines/how-to-present-at-a-speaker-social.md)
   * [Avoiding Ableist Language](community-guidelines/avoiding-ableist-language.md)
@@ -15,7 +15,8 @@
   * [Festival Entry Fee Remuneration Policy](policies/festival-entry-fee-remuneration-policy.md)
   * [Ticket Refund Policy](policies/ticket-refund-policy.md)
   * [Speaker and Artist Fee Policy](policies/speaker-and-artist-fee-policy.md)
-* [Code of Conduct](code-of-conduct/code-of-conduct.md)
-  * [Reporting Violations](code-of-conduct/reporting-violations-of-the-coc.md)
-    * [For Members/Participants](code-of-conduct/for-membersparticipants.md)
-    * [For Staff/Organizers](code-of-conduct/for-stafforganizers.md)
+* [Code of Conduct](code-of-conduct/README.md)
+  * [Reporting Violations](code-of-conduct/reporting-violations-of-the-coc/README.md)
+    * [For Members/Participants](code-of-conduct/reporting-violations-of-the-coc/for-membersparticipants.md)
+    * [For Staff/Organizers](code-of-conduct/reporting-violations-of-the-coc/for-stafforganizers.md)
+

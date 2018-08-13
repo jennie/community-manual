@@ -1,3 +1,5 @@
+# Ticket Refund Policy
+
 ## Terms
 
 * Registration is on a first-come-first-served basis and is limited to space restrictions.
@@ -12,7 +14,7 @@ If you have reserved a free DMG member ticket for a paid event and are unable to
 
 Doing so means more people have access to our programming, and ensures we start events on time!
 
-If you have paid for a registration and cancel more than 2 weeks prior to the start of an event, you are eligible for a full refund. **Please [contact us](mailto:events@dmg.to) to initiate the refund process – it is not automatic.**
+If you have paid for a registration and cancel more than 2 weeks prior to the start of an event, you are eligible for a full refund. **Please** [**contact us**](mailto:events@dmg.to) **to initiate the refund process – it is not automatic.**
 
 ### Refunds and Exchanges
 
@@ -21,3 +23,4 @@ In general, we are unable to provide refunds or exchanges for registrations canc
 The more notice you give us, the better chance we will be able to provide a refund or credit for a future event.
 
 Absolutely no refunds will be given after the event.
+

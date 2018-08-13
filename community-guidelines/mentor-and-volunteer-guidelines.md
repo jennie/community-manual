@@ -28,14 +28,14 @@ It’s _not_ a "learn to program" course. We _don’t_ just teach a specific dev
 
 DMG is a member organization that **values** collaborative learning, free self-expression, affirmation and creation. Learn more about us here:
 
-* [Member introduction](/README.md)
+* [Member introduction](../)
 * [About DMG](https://dmg.to/about)
 
-Please read and affirm our [Code of Conduct](/code-of-conduct/code-of-conduct.md), and talk to an organizer if you are confused about anything.
+Please read and affirm our [Code of Conduct](../code-of-conduct/), and talk to an organizer if you are confused about anything.
 
 ## Understanding the goals of an intensive
 
-Our intensive programs (Damage Camps) are workshops that last four to six weeks with a set cohort of participants selected through an application process. The group meets two to three times per week, and receives one-on-one mentorship for the duration of the program. The purpose of our long programs is to:
+Our intensive programs \(Damage Camps\) are workshops that last four to six weeks with a set cohort of participants selected through an application process. The group meets two to three times per week, and receives one-on-one mentorship for the duration of the program. The purpose of our long programs is to:
 
 * Create a friendly, open, collaborative experience for participants
 * Provide a safe and playful space for exploring creative ideas, as well as learning problem-solving and technical skills
@@ -53,7 +53,7 @@ It is critical that a safe, stress-free and inclusive environment is maintained 
 
 ### Respect Diverse Identities
 
-* Do not make assumptions about identity, experiences, or pronouns and always use a person's pronouns if they've been communicated (default to "they" if not)
+* Do not make assumptions about identity, experiences, or pronouns and always use a person's pronouns if they've been communicated \(default to "they" if not\)
 * Allow participants space and time to disclose as much or as little information about their identity and background as they wish
 * Treat all participants with respect and assume they know more about what they are trying to create than you do
 
@@ -75,22 +75,18 @@ It is critical that a safe, stress-free and inclusive environment is maintained 
 * Try to find and respect the core idea of the game and understand its style, even if it's something that doesn't appeal to you personally
 * Don't suggest that participants drastically alter their mechanics; help them improve on the game they've chosen to make.
 
-
 ### "Do"s and "Don't"s for Respectful Critique and Discussion
 
 | Instead of… | Try… |
 | :--- | :--- |
-| "This doesn't make sense." | **Help articulate problems** <br> "Can you explain your thought process?" |
-| "No." | "You're heading in the right direction" <br> "Yes, and…" |
-| "It doesn't work" <br> "It's broken" | "Let's try to improve this part." |
-| "This is just like \[Game X\]." | "Check out these games – they're doing something similar. What can we learn from them?" |
-| "Do you have any questions?" | **Encourage questions, and respond to them positively** <br> "What questions do you have?" <br> "What an interesting question! I've wondered that myself." |
-
+| "This doesn't make sense." | **Help articulate problems**   "Can you explain your thought process?" |
+| "No." | "You're heading in the right direction"   "Yes, and…" |
+| "It doesn't work"   "It's broken" | "Let's try to improve this part." |
+| "This is just like \[Game X\]." | "Check out these games – they're doing something similar. What can we learn from them?" |
+| "Do you have any questions?" | **Encourage questions, and respond to them positively**   "What questions do you have?"   "What an interesting question! I've wondered that myself." |
 
 ## Thanks!
 
 * Hat-tip to [RailsBridge](http://workshops.railsbridge.org/), a volunteer-run organization that produces free Ruby on Rails workshops for women and their friends
 * Mentors past: You set the tone and a great example for this wonderfully collaborative community.
-
-
 
