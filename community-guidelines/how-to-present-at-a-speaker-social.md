@@ -8,13 +8,17 @@ You don't have to have created a polished, released game - even a sketch of an i
 
 ## What's it like to give a presentation at a DMG event?
 
-All **Speaker Socials** happen at our headquarters located at 32 Lisgar Street \(in the new Toronto Media Arts Centre\) in Toronto. We have a studio space for our members to work and hang out, and a gallery.
+All **Speaker Socials** happen at our headquarters located at 32 Lisgar Street \(in the new Toronto Media Arts Centre\) in Toronto. We have a workshop that seats up to 24, and a studio space for our members to work and hang out.
 
 You'll have access to a projector and screen, a microphone and sound board - and all the cables you could possibly need! Arrive at least 15 minutes before the start of the social, and we'll get you all set up. _If you need other specialized equipment, please let us know ahead of time._
 
 The crowd is usually about 25-50 strong and a mix of independent game developers, designers, film and video artists, animators, people who work at small studios, freelancers, enthusiasts and more. A large proportion of the crowd comes from a non-technical background. The mood is casual, supportive, sociable and friendly.
 
 Presentations should be roughly 20 minutes long \(shorter if more than three people are presenting, longer if you need more time and we've made special arrangements\). Having some kind of visual component - slides or a demo of your game - is ideal.
+
+# How to prepare
+
+Our workshop is equipped with high-speed wi-fi and a projector with HDMI and Chromecast input. Check with the organizer ahead of time to make sure we have the dongle you need.
 
 ## What should I talk about?
 
