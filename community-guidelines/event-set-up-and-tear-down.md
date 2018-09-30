@@ -4,10 +4,10 @@ Here's what we typically need help with:
 
 ## Set up
 
-* **Workshops/classes:** If more than 24 people are registered, set up 2 folding tables and 6 chairs at the back 
-* **Lectures/presentations:** Move tables, take down power cables, and set up 40 folding chairs
-* Get snacks \(socials only, unless otherwise planned\), set up food table and put out water bottles and glasses
-* Put sandwich board sign out in front of building and prop doors with wedges \(found on yellow table by front door\)
+* **Workshops/classes:** Standard workshop room setup. Chairs facing front of room only.
+* **Lectures/presentations:** Move tables, remove power cables, and set up 30 folding chairs
+* Get snacks \(socials only, unless otherwise planned\), set up food table.
+* Put sandwich board sign out in front of building and prop workshop door with wedge.
 
 ## Greeting
 
