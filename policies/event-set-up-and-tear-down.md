@@ -1,6 +1,6 @@
 # Running or Volunteering at an Event
 
-Here's what we typically need help with:
+
 
 ## Prep
 
@@ -13,7 +13,14 @@ A few days before an event, the assigned captain should:
 
 ### Volunteer Tasks
 
+Most regular events need 2 DMG people
+
+1. A **captain** \(typically a programming committee member or organizer\) who will do prep, setup, and technical support and stay for cleanup and lockup.
+2. A **second** who will manage the door and attendees, and assist with cleanup.
+
 #### **Tech**
+
+_For socials and workshops, this is likely the captain_
 
 * Help presenter test laptop connection with HDMI cable or Chromecast 15 minutes before start time, in case you need to hunt down a dongle or troubleshoot the projector.
 * Prep computers that will be loaned out with any required software/updates at least 1-2 hours prior to event, or in the days before.
@@ -26,7 +33,9 @@ A few days before an event, the assigned captain should:
 * 20 minutes after the start of the event, the door volunteer can come up to the workshop space. Late arrivals may Slack the organizer to be let in \(in certain cases\) as the door will be locked.
 * Should not be the tech support person.
 
-#### **Setup/Cleanup**
+#### **Setup**
+
+_For socials and regular workshops, this is likely the captain_
 
 * **Workshops/classes**
   * Standard workshop room setup. Chairs facing front of room only.
@@ -55,6 +64,10 @@ A few days before an event, the assigned captain should:
 
 * Fold and put away chairs and tables – the room should always be reset to workshop formation: Four rows of two tables, with four chairs in each row facing the front of the room.
 * Put away laptops, power cables, mice, etc. in their marked bins and drawers.
-* Sweep and wipe up any spills
-* Close all windows and turn off the lights
+* Sweep and wipe up any spills.
+* Close all windows and turn off the lights.
+* Make sure everyone is out of the space. **Captain is the last one out.**
+* Ensure stanchions are set up properly, and TMAC front door is locked and pulled closed tight.
+
+
 
