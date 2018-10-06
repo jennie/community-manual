@@ -13,10 +13,10 @@ A few days before an event, the assigned captain should:
 
 ### Volunteer Tasks
 
-Most regular events need 2 DMG people
+Most regular events need **at least** 2 DMG people – a captain and a volunteer. 
 
 1. A **captain** \(typically a programming committee member or organizer\) who will do prep, setup, and technical support and stay for cleanup and lockup.
-2. A **second** who will manage the door and attendees, and assist with cleanup.
+2. A **second** who will manage the front door and attendees, and assist with cleanup.
 
 #### **Tech**
 
@@ -28,7 +28,7 @@ _For socials and workshops, this is likely the captain_
 
 #### **Door/registration**
 
-* A volunteer to open the front door of the facility and give attendees directions to DMG. **Always** required for events happening only in the DMG workshop space after 6 p.m. or on the weekend.
+* A volunteer to open the front door of the facility and give attendees directions to DMG. **Always** required for events happening only in the DMG workshop space after 6 p.m. or on the weekend as the front door will normally be locked at this time.
 * This volunteer should have the registration list, and be informed ahead of time if non-registrants will be allowed in.
 * 20 minutes after the start of the event, the door volunteer can come up to the workshop space. Late arrivals may Slack the organizer to be let in \(in certain cases\) as the door will be locked.
 * Should not be the tech support person.
