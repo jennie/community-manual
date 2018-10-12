@@ -19,4 +19,5 @@
   * [Reporting Violations](code-of-conduct/reporting-violations-of-the-coc/README.md)
     * [For Members/Participants](code-of-conduct/reporting-violations-of-the-coc/for-membersparticipants.md)
     * [For Staff/Organizers](code-of-conduct/reporting-violations-of-the-coc/for-stafforganizers.md)
+* [Accessibility](accessibility.md)
 
