@@ -28,7 +28,7 @@ One of our goals is to remove obstacles to our members’ success, and the best 
 
 Here are some good things to do if you are brand-new to DMG.
 
-1. Skim through this member manual, and familiarize yourself with our [Code of Conduct](https://github.com/dmg/member-manual/tree/bb719aea2b17099ba504617b9110b8d7bc975439/code-of-conduct.md)
+1. Skim through this member manual, and familiarize yourself with our [Code of Conduct](https://manual.dmg.to/code-of-conduct)
 2. Learn a little more [about our board and activities](https://dmg.to/about)
 3. Introduce yourself on our Slack channel 👋
 4. Register for an [upcoming event](https://dmg.to/events)
