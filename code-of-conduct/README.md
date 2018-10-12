@@ -22,8 +22,8 @@ We believe that failing to address dynamics of hierarchy, power and privilege al
 
 **We do not tolerate oppressive behavior, harassment, destructive behavior, or exclusionary actions.**
 
-**Oppressive behavior**: any conduct that demeans, marginalizes, rejects, threatens or harms anyone on the basis of identity, background, or ability.
-
+**Oppressive behavior**: any conduct that demeans, marginalizes, rejects, threatens or harms anyone on the basis of identity, background, or ability. This includes publicly sympathizing with hate groups or endorsing political beliefs that contradict our values.
+ 
 **Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, slanderous, derogatory, or threatening comments online or in person; and unwanted physical or electronic contact or sexual attention.
 
 **Destructive behavior**: damaging or altering any part of the building, inside or out, including furniture and equipment; damaging, altering or using other people's belongings, including personal computers and digital content or code created by other people \(unless you have their consent\).
