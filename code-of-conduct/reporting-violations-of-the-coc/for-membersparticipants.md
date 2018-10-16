@@ -10,6 +10,7 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
   * Jennie Robinson Faber \(ex-officio\)
   * Kaitlin Tremblay
   * Jen Costa
+  * Leisha-Marie Riddel
 
 You can also email [hr@dmg.to](mailto:hr@dmg.to) to reach the current chair \(or co-chairs\) of the conflict resolution committee.
 
