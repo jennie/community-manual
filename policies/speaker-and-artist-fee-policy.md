@@ -5,8 +5,8 @@ DMG recognizes the value of the time and experience of its members and guests, a
 | Type | Length | Fee |
 | :--- | :--- | :--- |
 | Tutorials | &lt; 1 hour | $75 |
-| Workshops | &lt; 4 hours | $125 |
-| Workshops | 4-7 hours | $250 |
+| Workshops (evenings) | &lt; up to 4 hours | $125 |
+| Workshops (weekends/afternoons) | 4-7 hours | $250 |
 | Artist talks | &lt; 1.5 hours | $150 |
 | Presentation and Q&A at monthly social event | &lt; 15 minutes | None |
 | Arcade and showcase events | – | None\* |
