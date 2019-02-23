@@ -12,6 +12,8 @@ If this does not describe you, that doesn't mean you aren't welcome here! It jus
 
 We acknowledge the work of creating a safer, more equitable space is work that will never be complete, and that we're not perfect. The terms we use to describe our experience are always changing, and we are always listening and learning. We are eager to maintain and defend the inclusivity of this community. If you think of something that is missing from this handbook, or a way we could improve it, please send us an email at [info@dmg.to](mailto:info@dmg.to) or speak to an organizer.
 
+Read more about DMG in [our board manual](https://governance.dmg.to/about-dmg), and [on our web site](https://dmg.to/about).
+
 ## So, why are you here?
 
 People join DMG for lots of different reasons. Here are a few of the kinds of people who are part of this organization:
