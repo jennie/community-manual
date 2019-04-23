@@ -4,7 +4,7 @@ The DMG workshop and office space is situated within the Toronto Media Arts Cent
 
 [Information about the accessibility of the TMAC facility](https://toronto-media-arts-centre.gitbook.io/procedure-manual/policies/accessibility), including washrooms.
 
-DMG is on the 3rd floor of the building. As of October 2018, the main elevator does not service the 3rd floor. There is a secondary elevator in another area of the building, however, it requires the ascent of three stairs to access. We expect the main elevator to be repaired by December 2018.
+DMG is on the 3rd floor of the building. As of October 2018, the main elevator does not service the 3rd floor. There is a secondary elevator in the member area of the building. Visitors requiring elevator access to the 3rd floor can use the main entrance elevator to get to the second floor, and a volunteer will escort them to the member entrance elevator to access the 3rd floor.
 
 The door to the DMG workshop space is 48" wide and is propped open before and during events. The workshop space itself is barrier free.
 
