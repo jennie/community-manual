@@ -17,7 +17,7 @@ DMG recognizes the value of the time and experience of its members and guests, a
 
 A letter of agreement is provided, and payment is usually made via Interac within 30 days. If you have any questions about this policy, please contact us.
 
-_If you are not a Class A member of DMG or consider yourself to be a part of a marginalized identity group, or if you are comfortably able to afford it, we would be grateful if you opted to donate your time instead of accepting a fee._
+_If you are not a Class A member of DMG or do not consider yourself to be a part of a marginalized identity group, or if you are comfortably able to afford it, we would be grateful if you opted to donate your time instead of accepting a fee._
 
 \* When part of a regular jam showcase, social event or fundraiser where voluntary submissions are requested. For curated exhibits held outside our venue, an exhibition fee is paid and varies depending on the venue and funding available–but generally meets CARFAC minimums.
 
